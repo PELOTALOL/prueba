@@ -22,7 +22,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     Dog dog;
     dog.display();
-
+    //perro
     Cat cat;
     cat.display();
     return 0;
